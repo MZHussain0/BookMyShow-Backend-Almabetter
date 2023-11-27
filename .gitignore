@@ -3,4 +3,4 @@
 dist
 .env
 package-lock.yaml
-pnpm-lock.yaml
+# pnpm-lock.yaml
